@@ -7,7 +7,7 @@ package workshop16;
  * @author (your name)
  * @version (a version number or a date)
  */
-public class s2
+public class Report
 {
     public static void main(String[] args)
     {
